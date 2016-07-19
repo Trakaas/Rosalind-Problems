@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 >Rosalind_1
 ATCCAGCT
 >Rosalind_2
@@ -12,3 +13,19 @@ TTGGAACT
 ATGCCATT
 >Rosalind_7
 ATGGCACT
+=======
+>Rosalind_1
+ATCCAGCT
+>Rosalind_2
+GGGCAACT
+>Rosalind_3
+ATGGATCT
+>Rosalind_4
+AAGCAACC
+>Rosalind_5
+TTGGAACT
+>Rosalind_6
+ATGCCATT
+>Rosalind_7
+ATGGCACT
+>>>>>>> abfe9e0c9413d6f3f3d7498ab1b806d822fb81f8
